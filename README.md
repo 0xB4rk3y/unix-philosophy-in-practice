@@ -24,13 +24,14 @@ This project is my attempt to:
 
 ## 🧠 Principles Demonstrated
 
-| Conceptual Principle                    | Directory                      | Practical Focus & Implementation Details                                  |
-|----------------------------------------|--------------------------------|---------------------------------------------------------------------------|
-| Functional Cohesion                    | `01_do-one-thing-well/`        | A self-contained log cleaner that adheres to single-responsibility design |
-| File Abstraction as System Interface   | `02_everything-is-a-file/`     | Uses `/proc` and file descriptors to access runtime system data           |
-| Minimalism in Tooling                  | `03_small-is-beautiful/`       | A compact parser demonstrating low-complexity, high-utility scripting     |
-| Composability Through Pipes            | `04_build-on-tools/`           | Demonstrates modular tool chaining via standard I/O redirection           |
-| Fail-Safe Defaults & Output Discipline | `05_silence-is-golden/`        | Emphasizes non-verbosity and error-driven output as a UX principle        |
+| Conceptual Principle                    | Directory                                              | Practical Focus & Implementation Details                                  |
+|----------------------------------------|--------------------------------------------------------|---------------------------------------------------------------------------|
+| Functional Cohesion                    | [01_do-one-thing-well/](./01_do-one-thing-well/)       | A self-contained log cleaner that adheres to single-responsibility design |
+| File Abstraction as System Interface   | [02_everything-is-a-file/](./02_everything-is-a-file/) | Uses `/proc` and file descriptors to access runtime system data           |
+| Minimalism in Tooling                  | [03_small-is-beautiful/](./03_small-is-beautiful/)     | A compact parser demonstrating low-complexity, high-utility scripting     |
+| Composability Through Pipes            | [04_build-on-tools/](./04_build-on-tools/)             | Demonstrates modular tool chaining via standard I/O redirection           |
+| Fail-Safe Defaults & Output Discipline | [05_silence-is-golden/](./05_silence-is-golden/)        | Emphasizes non-verbosity and error-driven output as a UX principle        |
+
 
 
 More coming soon.

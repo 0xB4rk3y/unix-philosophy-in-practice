@@ -1,4 +1,4 @@
-# 🧠 Unix Philosophy in Practice
+# 🧠 Unix Philosophy in Practice 
 
 Welcome! This repo is a small side project where I explore and apply the timeless principles of the Unix philosophy — one script at a time.
 
